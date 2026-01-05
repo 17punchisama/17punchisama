@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jinsujee Kongsadee</h1>
-<h3 align="center">💻 Computer Engineering Student</h3>
+<h3 align="center">💻 Computer Engineering Student\nat King Mongkut’s Institute of Technology Ladkrabang (KMITL)</h3>
 
 <h4 align="center">🎯 Interested in IoT, AI, Web & Mobile App, Fullstack Development</h4>
 
