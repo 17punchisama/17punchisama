@@ -8,7 +8,7 @@
 <h4 align="center">🎯 Interested in IoT, AI, Web & Mobile App, Fullstack Development</h4>
 
 - 🌱 I’m currently learning **Go, Java Spring Boot**
-- 👯 I’m looking to collaborate on **Y Series (Web-Scraped GL & BL Series and Actor Information Website)**  
+- 👯 Watching my current project on **Y Series (Web-Scraped GL & BL Series and Actor Information Website)**  
   👉 https://github.com/17punchisama/TOC-Project
 - 📫 How to reach me: **jinsujee1709@gmail.com**
 - ⚡ Fun fact: **I love building things that mix tech + design**  
