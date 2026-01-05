@@ -33,6 +33,7 @@
 ## 🌱 Currently Learning
 - **Go** — backend development & REST API
 - **Java Spring Boot** — enterprise backend & database integration
+- **React Native** — building mobile applications
 - **AI / Machine Learning** — applying AI to real-world applications
 
 ---
