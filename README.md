@@ -32,7 +32,7 @@
 <div align="center">
 
 <!-- ✅ ใช้ mirror ลด Error Fetching Resource -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=17punchisama&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=17punchisama&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 <!-- (ถ้าอยากใส่ภาษา) -->
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=17punchisama&layout=compact&theme=tokyonight)
