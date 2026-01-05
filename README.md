@@ -93,4 +93,4 @@
 ---
 
 ## ⚡ Fun fact
-I enjoy combining **engineering logic** with **creative design** — especially when building meaningful applications ✨
+I'm looking for **Software Engineer or Fullstack Developer Internship** ✨
